@@ -84,6 +84,6 @@ Some tips at my blog: https://medium.com/@danilosilvadev
 
 (Need info.)
 
-## Episode 07: Hackaton
+## Episode 06: Hackaton
 
 We met at a day and for 24 hours we create a new project with all information that we learned.
