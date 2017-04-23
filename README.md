@@ -46,7 +46,7 @@ https://medium.com (Here you can learn articles everyday about programming and t
 
 https://twitter.com/ (Follow coders and companies and talk to them about code.)
 
-## Episode 05: Learn about frameworks:
+## Episode 05: Learn about frameworks and patterns:
 
 What way do you want follow first? Android or java web?
 
@@ -57,6 +57,28 @@ Create your first app: https://developer.android.com/training/basics/firstapp/cr
 Video option beginner: https://br.udacity.com/course/android-basics-nanodegree-by-google--nd803/
 
 Video option intermediate: https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
+
+- Patterns to learn the concepts:
+
+MVC, MVP, singleton, observer, dependency injection, adapter and factory.
+
+- Frameworks to upgrade your app like a pro:
+
+https://projectlombok.org/ (writte the model methods to you).
+
+http://jakewharton.github.io/butterknife/ (inject views and button actions).
+
+https://medium.com/android-dev-br/introdu%C3%A7%C3%A3o-ao-dagger-2-56d193118a6c (Release the same object to all your classes).
+
+http://square.github.io/retrofit/ (Connects with JSON and convert to model using the gson converter).
+
+https://github.com/orfjackal/retrolambda (Applys android studio to use lambda functions, important at map in RxJava).
+
+https://realm.io/docs/java/latest/ (Make the persistence like sqlite but easier).
+
+https://code.tutsplus.com/pt/tutorials/getting-started-with-reactivex-on-android--cms-24387 (RxJava helps with asynktasks like download API's)
+
+Some tips at my blog: https://medium.com/@danilosilvadev
 
 ### Web:
 
