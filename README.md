@@ -10,6 +10,9 @@ http://rogerdudler.github.io/git-guide/index.pt_BR.html (portuguese)
 Basics github:
 https://guides.github.com/activities/hello-world/
 
+Video option:
+https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0 (portuguese)
+
 ## Episode 02: Learn the basics concepts of java programming:
 
 Basic concepts:
