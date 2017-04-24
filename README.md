@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG
 Basic concepts:
 http://www.progressivejava.net/p/if-you-are-starting-in-java-we-sugest.html
 
+http://www.javaprogressivo.net/p/curso-completo-de-java-para-iniciantes.html (Same content of above but in portuguese)
 Mobile option:
 https://www.sololearn.com/Course/Java/
 
