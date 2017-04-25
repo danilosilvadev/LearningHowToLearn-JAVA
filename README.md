@@ -1,8 +1,8 @@
 # LearningHowToLearn-JAVA
 
-This repository is made to show great resources to create a solid bases on Java programming.
-
 Este repositório é um guia sobre como o que aprender para se tornar um programador java de qualidade com foco em android. Todos os links com a descrição entre parênteses (portuguese) são conteúdos em português. Mas recomendo fortemente estudar os conteúdos em inglês também pois este guia visa preparar você para o mercado ensinando assim o inglês técnico necessário para o desenvolvimento java.
+
+Repare que o objetivo aqui não é fazer você somente aprender java e sim se tornar um programador completo, influente, independente e autodidata. Então a diferença é que quero durante minhas mentorias auxiliar com dúvidas e aconselhar os melhores caminhos e práticas para isso.
 
 Para tirar dúvidas temos este grupo do discord https://discord.gg/zVJWrYN e posso oferecer mentoria só entrar em contato comigo nesse grupo.
 
