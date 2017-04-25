@@ -6,7 +6,7 @@ Repare que o objetivo aqui não é fazer você somente aprender java e sim se to
 
 Ele é dividido em episódios que devem ser seguidos na ordem a fim de que você tenha uma completa experiência sem se perder em coisas desnecessárias ou ficar limitado a conceitos vagos. É um ambiente para expandir os horizontes inclusive de quem já programa algo em java.
 
-Sobre o conteúdo em inglês, peço que não se assuste. A maioria tem legenda e mesmo os sem legenda podem ser traduzidos com ajuda do google translator ou durante minha mentoria posso lhe ajudar com isso.
+Sobre o conteúdo em inglês, peço que não se assuste. A maioria tem legenda e mesmo os sem legenda podem ser traduzidos com ajuda do google translator ou durante minha mentoria posso lhe ajudar com isso. Inglês é ESSENSSIAL para você conseguir progredir como programador e conseguir competir no mercado então nada de moleza hein rsrs.
 
 Caso você já saiba sobre os assuntos citados e queira ser um mentor, entre em contato comigo lá no grupo do discord. Você pode me adicionar como amigo e mostrar suas competências e pretensões.
 
