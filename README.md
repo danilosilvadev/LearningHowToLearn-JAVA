@@ -4,7 +4,7 @@ Este repositório é um guia sobre como aprender a se tornar um programador java
 
 Repare que o objetivo aqui não é fazer você somente aprender java e sim se tornar um programador completo, influente, independente e autodidata. Então a diferença é que quero durante minhas mentorias auxiliar com dúvidas e aconselhar os melhores caminhos e práticas para isso.
 
-Ele é dividido em episódios que devem ser seguidos na ordem a fim de que você tenha uma completa experiência sem se perder em coisas desnecessárias ou ficar limitado a conceitos vagos. É um ambiente para expandir os horizontes inclusive quem já programa algo em java.
+Ele é dividido em episódios que devem ser seguidos na ordem a fim de que você tenha uma completa experiência sem se perder em coisas desnecessárias ou ficar limitado a conceitos vagos. É um ambiente para expandir os horizontes inclusive de quem já programa algo em java.
 
 Sobre o conteúdo em inglês, peço que não se assuste. A maioria tem legenda e mesmo os sem legenda podem ser traduzidos com ajuda do google translator ou durante minha mentoria posso lhe ajudar com isso.
 
