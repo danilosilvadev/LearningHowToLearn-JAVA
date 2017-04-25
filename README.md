@@ -2,6 +2,10 @@
 
 This repository is made to show great resources to create a solid bases on Java programming.
 
+Este repositório é um guia sobre como o que aprender para se tornar um programador java de qualidade com foco em android. Todos os links com a descrição entre parênteses (portuguese) são conteúdos em português. Mas recomendo fortemente estudar os conteúdos em inglês também pois este guia visa preparar você para o mercado ensinando assim o inglês técnico necessário para o desenvolvimento java.
+
+Para tirar dúvidas temos este grupo do discord https://discord.gg/zVJWrYN e posso oferecer mentoria só entrar em contato comigo nesse grupo.
+
 ## Episode 01: Learn git:
 
 Basics git:
