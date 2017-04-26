@@ -56,7 +56,11 @@ https://www.coursera.org/learn/orientacao-a-objetos-com-java (portuguese)
 Videos options to TDD:
 https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes/home/welcome (portuguese)
 
-## Episode 04: Enter inside the comunity:
+## Episode 04: Learn data structure:
+
+(Needs content)
+
+## Episode 05: Enter inside the comunity:
 
 https://github.com/ (Here you can follow projects and discovery how coders get things done.)
 
@@ -68,7 +72,7 @@ https://medium.com (Here you can learn articles everyday about programming and t
 
 https://twitter.com/ (Follow coders and companies and talk to them about code.)
 
-## Episode 05: Learn about frameworks and patterns:
+## Episode 06: Learn about frameworks and patterns:
 
 What way do you want follow first? Android or java web?
 
@@ -106,6 +110,6 @@ Some tips at my blog: https://medium.com/@danilosilvadev
 
 (Need info.)
 
-## Episode 06: Hackaton
+## Episode 07: Hackaton
 
 We met at a day and for 24 hours we create a new project with all information that we learned.
