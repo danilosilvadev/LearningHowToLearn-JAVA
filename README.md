@@ -73,6 +73,7 @@ https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/ (portug
 
 ## Episode 05: Enter inside the comunity:
 
+###
 https://github.com/ (Here you can follow projects and discovery how coders get things done.)
 
 http://stackoverflow.com/ (Here you can answer and ask questions.)
