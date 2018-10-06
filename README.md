@@ -11,6 +11,24 @@ https://guides.github.com/activities/hello-world/
 Video option:
 https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0 (portuguese)
 
+Markdown:
+https://blog.da2k.com.br/2015/02/08/aprenda-markdown/ (portuguese)
+
+Intermediate git:
+
+- From clone to Pull Request: 
+https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/ (portuguese)
+
+- Intermediate git:
+http://www.columbia.edu/~zjn2101/intermediate-git/#1
+
+Advanced Git:
+
+- Advenced Git Tutorials:
+https://www.atlassian.com/git/tutorials/advanced-overview
+
+- Best Practice:
+https://resources.github.com/videos/github-best-practices/
 
 ## Episode 02: Learn the basics concepts of java programming:
 
