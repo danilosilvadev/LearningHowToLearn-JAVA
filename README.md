@@ -52,9 +52,16 @@ https://www.hackerrank.com/domains/tutorials/30-days-of-code (Solve the 30 days 
 
 Videos options to OO:
 https://www.coursera.org/learn/orientacao-a-objetos-com-java (portuguese)
+https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL (portuguese)
 
 Videos options to TDD:
 https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes/home/welcome (portuguese)
+
+Videos option to Software Architecture:
+https://www.youtube.com/watch?v=qrA21OshjgU (portuguese)
+https://www.youtube.com/watch?v=W9LZc7gXgC8 (portuguese)
+https://www.youtube.com/watch?v=Rn1g6V-vlHw
+https://www.youtube.com/watch?v=_qggqkROlE4&list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA
 
 ## Episode 04: Learn data structure:
 
