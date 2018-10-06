@@ -188,7 +188,7 @@ Books:
 
 Video options:
 
-Based on Head First Design Patterns book: https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+Based on Head First Design Patterns book: https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc <br/>
 https://www.youtube.com/watch?v=Wi_22Ol-n_c&list=PLPUp6rbjBTHDehxG3dggOQ9V9EPm8O7hR (portuguese)
 
 ## Episode 07: Hackaton
