@@ -59,7 +59,7 @@ https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes
 
 Videos option to Software Architecture:
 https://www.youtube.com/watch?v=qrA21OshjgU (portuguese)
-https://www.youtube.com/watch?v=W9LZc7gXgC8 (portuguese)
+https://www.youtube.com/watch?v=W9LZc7gXgC8 (portuguese)<br />
 https://www.youtube.com/watch?v=Rn1g6V-vlHw<br />
 https://www.youtube.com/watch?v=_qggqkROlE4&list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA
 
