@@ -73,16 +73,47 @@ https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/ (portug
 
 ## Episode 05: Enter inside the comunity:
 
-###
+### Social medias that all programmer need to have:
+
+- GitHub:
 https://github.com/ (Here you can follow projects and discovery how coders get things done.)
 
+- StackOverflow:
 http://stackoverflow.com/ (Here you can answer and ask questions.)
 
+- Reddit:
 https://www.reddit.com/ (Here you can meet great programmmers.)
 
+- Medium:
 https://medium.com (Here you can learn articles everyday about programming and the new trending, and share your knowledge.)
 
+- Twitter:
 https://twitter.com/ (Follow coders and companies and talk to them about code.)
+
+### Main links Java:
+
+- Java Home Page:
+https://www.java.com/pt_BR/
+
+- Sun Developer Network:
+https://www.oracle.com/technetwork/java/index.html
+
+- Open JDK:
+https://openjdk.java.net/
+
+### Java portals, news, articles etc:
+
+- Independent Java Developer community:
+http://java.dzone.com/
+
+- Java Articles and News:
+https://www.javaworld.com/
+
+- friendly place for Java GreenHorns:
+https://javaranch.com/
+
+- Oracle Java Community:
+https://community.oracle.com/community/technology_network_community/java/
 
 ## Episode 06: Learn about frameworks and patterns:
 
