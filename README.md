@@ -58,7 +58,11 @@ https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes
 
 ## Episode 04: Learn data structure:
 
-(Needs content)
+Books in PDF:
+https://www.ime.usp.br/~cosen/verao/alg.pdf (portuguese)
+
+Videos option:
+https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/ (portuguese)
 
 ## Episode 05: Enter inside the comunity:
 
