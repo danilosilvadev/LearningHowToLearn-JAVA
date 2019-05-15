@@ -52,9 +52,16 @@ https://www.hackerrank.com/domains/tutorials/30-days-of-code (Solve the 30 days 
 
 Videos options to OO:
 https://www.coursera.org/learn/orientacao-a-objetos-com-java (portuguese)
+https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL (portuguese)
 
 Videos options to TDD:
 https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes/home/welcome (portuguese)
+
+Videos option to Software Architecture:
+https://www.youtube.com/watch?v=qrA21OshjgU (portuguese)
+https://www.youtube.com/watch?v=W9LZc7gXgC8 (portuguese)<br />
+https://www.youtube.com/watch?v=Rn1g6V-vlHw<br />
+https://www.youtube.com/watch?v=_qggqkROlE4&list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA
 
 ## Episode 04: Learn data structure:
 
@@ -66,15 +73,47 @@ https://loiane.training/course/estrutura-de-dados-e-algoritmos-com-java/ (portug
 
 ## Episode 05: Enter inside the comunity:
 
+### Social medias that all programmer need to have:
+
+- GitHub:
 https://github.com/ (Here you can follow projects and discovery how coders get things done.)
 
+- StackOverflow:
 http://stackoverflow.com/ (Here you can answer and ask questions.)
 
+- Reddit:
 https://www.reddit.com/ (Here you can meet great programmmers.)
 
+- Medium:
 https://medium.com (Here you can learn articles everyday about programming and the new trending, and share your knowledge.)
 
+- Twitter:
 https://twitter.com/ (Follow coders and companies and talk to them about code.)
+
+### Main links Java:
+
+- Java Home Page:
+https://www.java.com/pt_BR/
+
+- Sun Developer Network:
+https://www.oracle.com/technetwork/java/index.html
+
+- Open JDK:
+https://openjdk.java.net/
+
+### Java portals, news, articles etc:
+
+- Independent Java Developer community:
+http://java.dzone.com/
+
+- Java Articles and News:
+https://www.javaworld.com/
+
+- friendly place for Java GreenHorns:
+https://javaranch.com/
+
+- Oracle Java Community:
+https://community.oracle.com/community/technology_network_community/java/
 
 ## Episode 06: Learn about frameworks and patterns:
 
