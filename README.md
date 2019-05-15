@@ -115,7 +115,7 @@ https://javaranch.com/
 - Oracle Java Community:
 https://community.oracle.com/community/technology_network_community/java/
 
-## Episode 06: Learn about frameworks and patterns:
+## Episode 06: Learn about frameworks mobile and web Java:
 
 What way do you want follow first? Android or java web?
 
@@ -126,10 +126,6 @@ Create your first app: https://developer.android.com/training/basics/firstapp/cr
 Video option beginner: https://br.udacity.com/course/android-basics-nanodegree-by-google--nd803/
 
 Video option intermediate: https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
-
-- Patterns to learn the concepts:
-
-MVC, MVP, singleton, observer, dependency injection, adapter and factory.
 
 - Frameworks to upgrade your app like a pro:
 
@@ -149,10 +145,52 @@ https://code.tutsplus.com/pt/tutorials/getting-started-with-reactivex-on-android
 
 Some tips at my blog: https://medium.com/@danilosilvadev
 
+### Kotlin:
+
+Bootcamp of Kotlin for programmers by Google: https://br.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
+
+Kotlin Org: https://kotlinlang.org/
+
+Introduction and first steps: https://www.androidpro.com.br/blog/kotlin/kotlin/
+
+How to prepare the enviroment and write your first code with Kotlin: http://blog.caelum.com.br/como-preparar-o-ambiente-e-escrever-seu-primeiro-codigo-com-kotlin/
+
+From Java to Kotlin: https://fabiomsr.github.io/from-java-to-kotlin/
+
+- Frameworks to upgrade your app like a pro:
+
+Kotlin for Server Side: http://kotlinlang.org/docs/reference/server-overview.html
+
+Spark: http://sparkjava.com/
+
 ### Web:
 
 (Need info.)
 
-## Episode 07: Hackaton
+## Episode 07: Patterns 
+
+### Architecture Patterns
+
+Books:
+- Pattern–Oriented Software Architecture volume 1: https://www.wiley.com/en-us/Pattern+Oriented+Software+Architecture%2C+Volume+1%2C+A+System+of+Patterns-p-9780471958697
+
+Video Options: 
+https://www.youtube.com/watch?v=hcPf8biV_7w&list=PLnIXQSIsn7B3eqIFpamOvjmRriEQ8wlbw
+
+
+### Design Patterns
+Books:
+- Design Patterns: Elements of Reusable Object-Oriented Software: https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1538866846&sr=1-4&keywords=Design+Patterns
+
+- Design Patterns in Java : https://www.amazon.com/Design-Patterns-Java-paperback-Software/dp/0134277880
+
+- Head First: Design Patterns: https://www.saraiva.com.br/use-a-cabeca-padroes-de-projetos-design-patterns-2-ed-revisada-1995765.html
+
+Video options:
+
+Based on Head First Design Patterns book: https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc <br/>
+https://www.youtube.com/watch?v=Wi_22Ol-n_c&list=PLPUp6rbjBTHDehxG3dggOQ9V9EPm8O7hR (portuguese)
+
+## Episode 08: Hackaton
 
 We met at a day and for 24 hours we create a new project with all information that we learned.
